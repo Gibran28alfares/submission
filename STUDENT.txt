@@ -1,0 +1,5 @@
+Student Name: Mohamad Gibran Alfares
+App Name: DisasterReady Story App
+Deployment URL: https://ais-dev-uad7q3kqmzzm5dx4laanfm-638925047461.asia-southeast1.run.app
+VAPID Public Key: BL6469NlH-M1m6F-3Y_mXJ3-R_V-E-vH0
+

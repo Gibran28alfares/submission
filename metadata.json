@@ -1,0 +1,6 @@
+{
+  "name": "StoryApp",
+  "description": "A minimalist single-page application for sharing and exploring stories with geolocation features.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
